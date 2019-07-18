@@ -5,6 +5,7 @@ import App from './App';
 import App2 from './App2';
 import App3 from './App3';
 import App4 from './App4';
+import App5 from './App5';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App4/>, document.getElementById('root'));
